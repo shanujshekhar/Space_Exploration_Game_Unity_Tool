@@ -49,14 +49,33 @@ Screenshot-
 - Greenhouse consists of a large field growing on the ground. 
 - I have designed two tasks:
 
-    - Task 1 - Game of Light
+Planet- 
+ 
+   <img src="./Screenshots/planet_1.JPG" height="200" width="400">
+
+Tasks- 
+ 
+   <img src="./Screenshots/taskmenu.JPG" height="200" width="400">
+
+
+   - Task 1 - Game of Light
       - In this task, the user has to turn on/off the lights present all along the boundary of the greenhouse.
       - The user has to cast rays from both the controllers and when both rays intersect at certain light, then the light component of this 3D object is disabled.
+   
+   Screenshot- 
+ 
+   <img src="./Screenshots/light_task.JPG" height="200" width="400">
+
       
-    - Task 2 - Cargo Alignment
+   - Task 2 - Cargo Alignment
       - In this task, the cargoes loaded in the beginning of the game, will be used to place or you can say align them onto a cart present in the greenhouse.
       - Again, I have used rays from the controllers to select a particular cargo. 
       - After the cargo is selected, then the user can easily pick them up using the left controller. The user is given the feature of moving the object along the ray of the left controller in order for it to get placed into the cart.
+
+   Screenshot- 
+ 
+   <img src="./Screenshots/cargo_alignment.JPG" height="200" width="400">
+
 
 ## Tools and Hardware Used:
 - Language Used: C# (Microsoft Visual Studio, Unity, Blender)
