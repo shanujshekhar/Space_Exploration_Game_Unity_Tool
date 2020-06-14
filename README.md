@@ -6,16 +6,40 @@
 - Designed a greenhouse on a Planet where I made the player do some random tasks like aligning cargo boxes, etc.
 - Designed teleportation tube to teleport into the greenhouse.
 
+ Screenshot- 
+ 
+   <img src="./Screenshots/setting_scene.JPG" height="200" width="400">
+
 
 ## Flying the spaceship
 - Designed a cockpit for the spaceship. The cockpit has a large window that looks outside into the space, a yoke (and aircraft’s steering), and a teleportation tube.
 - Used Oculus Quest controllers to implement the steering of the spaceship. When the user walks towards the cockpit, they are prompted for an option to control the flight.
+
+Screenshot- 
+ 
+   <img src="./Screenshots/Flying.JPG" height="200" width="400">
+
+## Minimap
 - Implemented a miniature map of the world of the game. Such a minimap is an example of a World in Miniature (WIM) metaphor. The representation of the spaceship, cargo-ship, and custom Planet are highlighted (this is usually done by making the objects in different colors and blinking).
+
+Screenshot- 
+ 
+   <img src="./Screenshots/minimap.JPG" height="200" width="400">
+
 
 ## The Teleportation Tube
 - Teleportation is a type of locomotion that allows the player to move around a VR environment. 
 - I have designed a ‘tube’ (a human-sized 3D cylindrical object) inside the spaceship that when walked into, will teleport the user to different locations within your VR world.
 - Once the user walks into the teleportation tube, it provides an aerial view of the greenhouse to the user. User selects a 3D location in the greenhouse using a ray from one of the controllers intersecting with the greenhouse ‘floor.’ Using a button, the user confirms the teleportation location and the tube teleports the user to the specified location.
+
+Screenshot- 
+ 
+   <img src="./Screenshots/portal.JPG" height="200" width="400">
+
+Screenshot- 
+ 
+   <img src="./Screenshots/aerialview.JPG" height="200" width="400">
+
 
 ## Interacting with the cargo ship
 - Designed Cargo ship and cargo boxes using Blender 3.0.
