@@ -10,6 +10,14 @@
  
    <img src="./Screenshots/setting_scene.JPG" height="200" width="400">
 
+## Tools and Hardware Used:
+- ***Language Used: C# (Microsoft Visual Studio, Unity, Blender)***
+- Unity Version: 2018.4.16f1 Personal
+- Laptop Configurations: Inspiron 5580, Memory: 8 GB
+- Processor: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz[Cores 4] [Logical/Core 2] Operating System: Microsoft Windows 10 Home Single Language
+- Graphic Card Configurations: NVIDIA GeForce MX150, Shared Memory - 3999MB
+- Oculus Quest Device (HMD): 64GB
+
 
 ## Flying the spaceship
 - Designed a cockpit for the spaceship. The cockpit has a large window that looks outside into the space, a yoke (and aircraft’s steering), and a teleportation tube.
@@ -75,12 +83,3 @@ Tasks-
    Screenshot- 
  
    <img src="./Screenshots/cargo_alignment.JPG" height="200" width="400">
-
-
-## Tools and Hardware Used:
-- Language Used: C# (Microsoft Visual Studio, Unity, Blender)
-- Unity Version: 2018.4.16f1 Personal
-- Laptop Configurations: Inspiron 5580, Memory: 8 GB
-- Processor: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz[Cores 4] [Logical/Core 2] Operating System: Microsoft Windows 10 Home Single Language
-- Graphic Card Configurations: NVIDIA GeForce MX150, Shared Memory - 3999MB
-- Oculus Quest Device (HMD): 64GB
